@@ -3,6 +3,7 @@ import ParticlesComp from './ParticlesComp';
 import linkedInLogo from './linkedin-image.png';
 import githubLogo from './gh-img.png';
 import resumeLogo from './resume-logo.png'
+import Pdf from './resume.pdf';
 
 function App() {
   return (
@@ -24,7 +25,9 @@ function App() {
         </div>
 
         <div className='logo-image-container'>
+        <a href={Pdf} target="_blank">
           <img className='logo-image' src={resumeLogo}/>
+        </a>
         </div>
       </div>
       <div className="prtcls"><ParticlesComp/></div>
