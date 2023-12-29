@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AyaanAdil.com/static/css/main.3c08cfed.css",
+    "main.js": "/AyaanAdil.com/static/js/main.5ea20e96.js",
+    "static/js/787.c6c7c86f.chunk.js": "/AyaanAdil.com/static/js/787.c6c7c86f.chunk.js",
+    "index.html": "/AyaanAdil.com/index.html",
+    "main.3c08cfed.css.map": "/AyaanAdil.com/static/css/main.3c08cfed.css.map",
+    "main.5ea20e96.js.map": "/AyaanAdil.com/static/js/main.5ea20e96.js.map",
+    "787.c6c7c86f.chunk.js.map": "/AyaanAdil.com/static/js/787.c6c7c86f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c08cfed.css",
+    "static/js/main.5ea20e96.js"
+  ]
+}
